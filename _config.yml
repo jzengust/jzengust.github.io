@@ -83,9 +83,10 @@ author:
   name             : "Jin Zeng"
   avatar           : "profile.png"
   bio              : "Assistant Professor, Tongji University"
-  location         : "Shanghai, China"
+  location         : "Location"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=jBxf3FYAAAAJ"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,18 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jzengust"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
