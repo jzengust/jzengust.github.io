@@ -22,7 +22,7 @@ Research Interest
 1. 3D imaging
 <!-- and their applications for the processing and analysis of structural data such as 2D/3D images, traffic data, etc.  -->
 <!-- I have published 20 top international journal and conference papers in multimedia signal processing, including TIP, TSP, CVPR, and ECCV.  -->
-![Research interest](/images/research-summary.png)
+<!-- ![Research interest](/images/research-summary.png) -->
 
 
 Join us
