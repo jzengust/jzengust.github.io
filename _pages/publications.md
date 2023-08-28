@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 My research interests include graph signal processing, graph-based machine learning and their applications for the processing and analysis of structural data such as 2D/3D images, traffic data, etc., as summarized below. 
-![Research interest](/images/research-summary.png)
+![Research interest](/images/research-summary-resize.png)
 
 Full publication list is as follows.
 <br /> #: corresponding author, *: co-first author
