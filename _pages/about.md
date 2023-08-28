@@ -20,13 +20,6 @@ Research Interests
 My research interests include graph signal processing, graph-based machine learning and their applications for the processing and analysis of structural data such as 2D/3D images, traffic data, etc., as summarized below. 
 ![Research interest](/images/research-summary-resize.png)
 
-<!-- 1. graph signal processing
-1. graph-based machine learning
-1. 3D imaging -->
-<!-- and their applications for the processing and analysis of structural data such as 2D/3D images, traffic data, etc.  -->
-<!-- I have published 20 top international journal and conference papers in multimedia signal processing, including TIP, TSP, CVPR, and ECCV.  -->
-<!-- ![Research interest](/images/research-summary.png) -->
-
 Join us
 ======
 We are looking for self-motivated PhD/master/undergraduate students. If you are passionate about our research on Graph Signal Processing and Graph-based Machine Learning, feel free to drop me an email.
