@@ -31,5 +31,21 @@ author_profile: true
 ## Journal Publications
 
 1. Zhikang Yuan, **Jin Zeng<sup>#</sup>**, Zixiang Wei, Lijun Jin, Shengjie Zhao, Xianhui Liu, Yingyao Zhang, Gangjie Zhou
-<br /> CLAHE-Based Low-Light Image Enhancement for Robust Object Detection in Overhead Power Transmission System
-<br /> IEEE Transactions on Power Delivery, April 2023.
+<br /> CLAHE-based low-light image enhancement for robust object detection in overhead power transmission system
+<br /> IEEE Trans. Power Delivery, April 2023.
+
+1. **Jin Zeng**, Gene Cheung, Michael Ng, Jiahao Pang, Cheng Yang
+<br /> 3D point cloud denoising using graph Laplacian regularization of a low dimensional manifold model
+<br /> IEEE Trans. Image Processing, December, 2019.
+
+1. **Jin Zeng**, Gene Cheung, Antonio Ortega
+<br /> Bipartite approximation for graph wavelet signal decomposition
+<br /> IEEE Trans. Signal Processing, October, 2017.
+
+1. **Jin Zeng**, Lu Fang, Houqiang Li, Feng Wu
+<br /> Subpixel image quality assessment syncretizing local subpixel and global pixel features
+<br /> IEEE Trans. Image Processing, December, 2016.
+
+1. Jiahao Pang, Lu Fang, **Jin Zeng**, Yuanfang Guo, Ketan Tang
+Subpixel-based image scaling for grid-like subpixel arrangements: A generalized continuous-domain analysis model
+IEEE Trans. Image Processing, March, 2016.
