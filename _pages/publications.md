@@ -22,17 +22,17 @@ author_profile: true
 
 1. Siheng Chen, **Jin Zeng** [[link]](https://shop.elsevier.com/books/immersive-video-technologies/valenzise/978-0-323-91755-1)
 <br /> Processing of volumetric video
-<br /> Immersive Video Technologies, Elsevier, Sep. 2022.
+<br /> Immersive Video Technologies, Elsevier, September, 2022.
 
 1. Pang Jiahao, **Jin Zeng** [[link]](https://www.wiley.com/en-au/Graph+Spectral+Image+Processing-p-9781789450286)
 <br /> Graph Spectral Image Restoration
-<br /> Graph Spectral Image Processing, ISTE/Wiley, June 2021.
+<br /> Graph Spectral Image Processing, ISTE/Wiley, June, 2021.
 
 ## Journal Publications
 
 1. Zhikang Yuan, **Jin Zeng<sup>#</sup>**, Zixiang Wei, Lijun Jin, Shengjie Zhao, Xianhui Liu, Yingyao Zhang, Gangjie Zhou
 <br /> CLAHE-based low-light image enhancement for robust object detection in overhead power transmission system
-<br /> IEEE Trans. Power Delivery, April 2023.
+<br /> IEEE Trans. Power Delivery, April, 2023.
 
 1. **Jin Zeng**, Gene Cheung, Michael Ng, Jiahao Pang, Cheng Yang
 <br /> 3D point cloud denoising using graph Laplacian regularization of a low dimensional manifold model
@@ -49,3 +49,65 @@ author_profile: true
 1. Jiahao Pang, Lu Fang, **Jin Zeng**, Yuanfang Guo, Ketan Tang
 Subpixel-based image scaling for grid-like subpixel arrangements: A generalized continuous-domain analysis model
 IEEE Trans. Image Processing, March, 2016.
+
+## Conference Publications
+
+1. **Jin Zeng**, Yang Liu, Gene Cheung, Wei Hu
+<br /> Sparse Graph Learning with Spectrum Prior for Deep Graph Convolutional Networks
+<br /> IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), June, 2023.
+
+1. **Jin Zeng**, Yanfeng Tong, Yunmu Huang, Qiong Yan, Wenxiu Sun, Jing Chen, Yongtian Wang
+<br /> Deep surface normal estimation with hierarchical RGB-D fusion
+<br /> IEEE Conf.on Computer Vision and Pattern Recognition (CVPR), Long Beach, USA, May, 2019.
+
+1. **Jin Zeng**, Jiahao Pang, Wenxiu Sun, Gene Cheung
+<br /> Deep graph Laplacian regularization for robust denoising of real images
+<br /> IEEE Conf. on Computer Vision and Pattern Recognition Workshops (CVPRW), Long Beach, USA, May, 2019.
+
+1. **Jin Zeng**, Gene Cheung, Yung-Hsuan Chao, Ian Blanes, Joan Serra-Sagrista, Antonio Ortega
+<br /> Hyperspectral image coding using graph wavelets
+<br /> IEEE Int. Conf. on Image Processing (ICIP), Beijing, China, September, 2017.
+
+1. **Jin Zeng**, Gene Cheung, Antonio Ortega
+<br /> Bipartite Subgraph Decomposition for Critically Sampled Wavelet Filterbanks on Arbitrary Graphs
+<br /> IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Shanghai, China, March, 2016. 
+
+1. **Jin Zeng**, Oscar C. Au, Yuanfang Guo, Jiahao Pang, Ketan Tang, Yonggen Ling
+<br /> Analysis of Sampling Pattern and Luma-chroma Filter Design for Subpixel-based Image Downsampling
+<br /> IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Florence, Italy, May, 2014.
+
+1. **Jin Zeng**, Oscar C. Au, Wei Dai, Yue Kong, Luheng Jia, Wenjing Zhu
+<br /> A Tutorial on Image/Video Coding Standards
+<br /> APSIPA Annual Summit and Conference (ASC), Kaohsiung, Taiwan, November, 2013.
+
+1. Di Qiu, **Jin Zeng**, Zhanghan Ke, Wenxiu Sun, Chengxi Yang
+<br /> Towards geometry guided neural relighting with flash photography
+<br /> International Conf. on 3D Vision (3DV), 2020. 
+
+1. Quewei Li, Jie Guo, Yang Fei, Qinyu Tang, Wenxiu Sun, **Jin Zeng**, Yanwen Guo
+<br /> Deep surface normal estimation on the 2-sphere with condence guided semantic attention
+<br /> European Conf. on Computer Vision (ECCV), 2020.
+
+1. Jiahao Pang, Wenxiu Sun, Chengxi Yang, Jimmy S. Ren, Ruichao Xiao, **Jin Zeng**, Liang Lin
+<br /> Zoom and learn: Generalizing deep stereo matching to novel domains
+<br /> IEEE Conf. Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018.
+
+1. Yonggen Ling, Oscar C. Au, Jiahao Pang, **Jin Zeng**, Yuan Yuan, Amin Zheng
+<br /> Image Colorization via Color Propagation and Rank Minimization
+<br /> IEEE Int. Conf. on Image Processing (ICIP), Quebec City, Canada, September, 2015. 
+
+1. Jiahao Pang, Oscar C. Au, Yukihiko Yamashita, Yonggen Ling, Yuanfang Guo, **Jin Zeng**
+<br /> Self-Similarity-Based Image Colorization
+<br /> IEEE Int. Conf. on Image Processing (ICIP), Paris, France, October, 2014. 
+
+1. Haiyan Yang, Oscar C. Au, **Jin Zeng**, Mengqi Ji, Yuan Yuan, Sunil Jaiswal
+<br /> A Comprehensive Study on Digital Image Matting
+<br /> IEEE China Summit and International Conference on Signal and Information Processing, Xi'an, China, July, 2014. 
+
+1. Wenjing Zhu, Oscar C. Au, Wei Dai, Haitao Yang, Rui Ma, Luheng Jia, **Jin Zeng**, Pengfei Wan
+<br /> Palette-based compound image compression in HEVC by exploiting non-local spatial correlation
+<br /> IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), Florence, Italy, May, 2014. 
+
+1. Yonggen Ling, Oscar C. Au, Ketan Tang, Jiahao Pang, **Jin Zeng**, Lu Fang
+<br /> An Analytical Study of Subpixel-based Image Down-sampling Patterns in Frequency Domain
+<br /> IEEE Int. Conf. on Visual Communications and Image Processing (VCIP), Kuching, Sarawak, Malaysia, November, 2013.
