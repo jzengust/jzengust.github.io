@@ -35,11 +35,11 @@ Relevant experience
   * Supervisor: [Prof. Gene Cheung](https://www.eecs.yorku.ca/~genec/index.html)
 
 * 2014.6 - 2014.8 Exchange Student 
-  * AOTULE program, Tokyo Institute of Technology, Japan
+  * AOTULE program, Tokyo Institute of Technology, Tokyo, Japan
   * Supervisor: [Prof. Yukihiko Yamashita](http://www.ide.titech.ac.jp/~yamasita)
 
 * 2010.9 - 2011.4 Exchange Student
-  * OJS exchange program, University of Ottawa, Canada
+  * OJS exchange program, University of Ottawa, Ottawa, Canada
   * Supervisor: [Prof. Jiying Zhao](https://engineering.uottawa.ca/people/zhao-jiying)
 
 Awards
