@@ -16,7 +16,7 @@ Education
   * Supervisors: [Prof. Khaled B. Letaief](https://eekhaled.home.ece.ust.hk/) and [Prof. Gene Cheung](https://www.eecs.yorku.ca/~genec/index.html)
 
 * B.Sc in Electronic and Information Science
-<br /> Nanjing University, 2012
+  * Nanjing University, 2012
 
 
 Work experience
