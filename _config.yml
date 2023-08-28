@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Jin Zeng"
   avatar           : "profile_jin.png"
-  bio              : "Assistant Professor" 
-  bio2             : "Tongji University" 
+  bio              : "Assistant Professor \n Tongji University" 
   location         : "Shanghai, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
