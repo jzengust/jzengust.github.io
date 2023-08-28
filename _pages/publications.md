@@ -139,3 +139,26 @@ author_profile: true
 <br /> An Analytical Study of Subpixel-based Image Down-sampling Patterns in Frequency Domain
 <br /> IEEE Int. Conf. on Visual Communications and Image Processing (VCIP), Kuching, Sarawak, Malaysia, November, 2013.
 [[paper]](https://ieeexplore.ieee.org/document/6706342)
+
+## Patents
+### Granted Patents
+
+**曾进**; 黄云沐; 佟彦锋; 严琼; 孙文秀
+<br /> 图像处理方法及装置、电子设备和存储介质
+<br /> 2019101474489，中国，2021.06.18
+
+韩丰夏; 邓浩; 王洁; **曾进**
+<br /> 一种基于连续干扰消除的低复杂度分组解码方法和设备
+<br /> 2021116193964，中国，2022.12.16
+
+严琼; 陈梓琪; 柯章翰; 任思捷; **曾进**
+<br /> 图像处理方法及装置
+<br /> 2018112647010，中国，2022.03.15
+
+庞家昊; **曾进**; 孙文秀; 肖瑞超
+<br /> 图像恢复方法及装置、电子设备、计算机程序及存储介质
+<br /> 2018105419749，中国，2021.08.06
+
+### Pending Patents
+
+
