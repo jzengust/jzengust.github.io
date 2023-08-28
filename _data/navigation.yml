@@ -5,9 +5,11 @@ main:
 
   - title: "Teaching"
     url: /teaching/          
-    
+  
+  - title: "Academic Services"
+    url: /academic/  
+
   - title: "CV"
     url: /cv/
 
-  - title: "Academic Services"
-    url: /academic/  
+

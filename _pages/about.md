@@ -15,7 +15,7 @@ I received my B.Sc. degree from School of Electronic Science and Engineering, Na
 Furthermore, I used to be a visiting student at National Institute of Informatics, Japan, supervised by [Prof. Gene Cheung](https://www.eecs.yorku.ca/~genec/index.html). 
 I have collaborations with [Prof. Antonio Ortega](https://viterbi.usc.edu/directory/faculty/Ortega/Antonio) from the University of Southern California, [Prof. Michael Ng](https://www.math.hkbu.edu.hk/~mng/) from The University of Hong Kong, etc. 
 
-Research Interest
+Research Interests
 ======
 1. graph signal processing
 1. graph-based machine learning
