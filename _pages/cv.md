@@ -42,6 +42,14 @@ Relevant experience
   * OJS exchange program, University of Ottawa, Canada
   * Supervisor: [Prof. Jiying Zhao](https://engineering.uottawa.ca/people/zhao-jiying)
 
+Awards
+======
+* Outstanding Individual Award (top 3%, 150/5000), SenseTime Group Ltd, 2019
+* Outstanding Researcher Award (top 10%, 75/720), SenseTime Research, 2018
+* Oversea Research Awards, HKUST, 2014
+* Outstanding Graduate, Nanjing University, 2012
+* National Scholarship, Nanjing University, 2009
+
 Publications
 ======
   [See all publications](https://jzengust.github.io/publications/)
@@ -55,7 +63,3 @@ Publications
 Teaching
 ======
   [See all courses](https://jzengust.github.io/teaching/)
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
