@@ -11,48 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electronic and Computer Engineering
+  * The Hong Kong University of Science and Technology, 2018
+  * Supervisors: [Prof. Khaled B. Letaief](https://eekhaled.home.ece.ust.hk/) and [Prof. Gene Cheung](https://www.eecs.yorku.ca/~genec/index.html)
+
+* B.Sc in Electronic and Information Science
+<br /> Nanjing University, 2012
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.9 - now, Assistant Professor
+  * Tongji University, Shanghai, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2018.2 - 2021.9, Senior Researcher
+  * SenseTime Research, Shenzhen/Hong Kong, China
+  * Duties included: 3D imaging, portrait relighting
+
+Relevant experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2015.1 - 2016.1, 2016.6 - 2017.6, Collaborative Research Student
+  * National Institute of Informatics, Tokyo, Japan
+  * Supervisor: [Prof. Gene Cheung](https://www.eecs.yorku.ca/~genec/index.html)
+
+* 2014.6 - 2014.8 Exchange Student 
+  * AOTULE program, Tokyo Institute of Technology, Japan
+  * Supervisor: [Prof. Yukihiko Yamashita](http://www.ide.titech.ac.jp/~yamasita)
+
+* 2010.9 - 2011.4 Exchange Student
+  * OJS exchange program, University of Ottawa, Canada
+  * Supervisor: [Prof. Jiying Zhao](https://engineering.uottawa.ca/people/zhao-jiying)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  [See all publications](https://jzengust.github.io/publications/)
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  [See all courses](https://jzengust.github.io/teaching/)
   
 Service and leadership
 ======
