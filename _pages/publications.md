@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 
+#: corresponding author, *: co-first author
 
 ## Book Chapter
 
@@ -26,3 +27,9 @@ author_profile: true
 1. Pang Jiahao, **Jin Zeng** [[link]](https://www.wiley.com/en-au/Graph+Spectral+Image+Processing-p-9781789450286)
 <br /> Graph Spectral Image Restoration
 <br /> Graph Spectral Image Processing, ISTE/Wiley, June 2021.
+
+## Journal Publications
+
+1. Zhikang Yuan, **Jin Zeng<sup>#</sup>**, Zixiang Wei, Lijun Jin, Shengjie Zhao, Xianhui Liu, Yingyao Zhang, Gangjie Zhou
+<br /> CLAHE-Based Low-Light Image Enhancement for Robust Object Detection in Overhead Power Transmission System
+<br /> IEEE Transactions on Power Delivery, April 2023.
