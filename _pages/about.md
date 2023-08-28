@@ -19,6 +19,7 @@ Research Interests
 ======
 My research interests include graph signal processing, graph-based machine learning and their applications for the processing and analysis of structural data such as 2D/3D images, traffic data, etc., as summarized below. 
 ![Research interest](/images/research-summary-resize.png)
+
 <!-- 1. graph signal processing
 1. graph-based machine learning
 1. 3D imaging -->
