@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Members of Technical Committee
+Member of Technical Committee
 ======
 * IEEE Multimedia Signal Processing Technical Committee (MMSP-TC) Member
 
