@@ -11,6 +11,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+Members of Technical Committee
+======
+* IEEE Multimedia Signal Processing Technical Committee (MMSP-TC) Member
+
 Session chair
 ======
 * IEEE International Conference on Visual Communications and Image Processing (VCIP) 2022

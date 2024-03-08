@@ -65,6 +65,19 @@ author_profile: true
 
 ## Conference Publications
 
+1. Guibin Zhang, Kun Wang, Wei Huang, Yanwei Yue, Yang Wang, Roger Zimmermann, Aojun Zhou, Dawei Cheng, **Jin Zeng<sup>#</sup>**, Yuxuan Liang
+<br /> Graph Lottery Ticket Automated
+<br /> International Conf. on Learning Representations (ICLR), May, 2024.
+[[paper]](https://openreview.net/pdf?id=nmBjBZoySX)
+
+1. Zixuan Chen, Shengjie Zhao<sup>#</sup>, **Jin Zeng<sup>#</sup>**, Shilong Dong, Geyunqian Zu
+<br /> CASTNet: Convolution Augmented Graph Sampling Transformer Network for Traffic Flow Forecasting
+<br /> Int. Conf. on Computer Supported Cooperative Work in Design (CSCWD), May, 2024
+
+1. Geyunqian Zu, Shengjie Zhao<sup>#</sup>, **Jin Zeng<sup>#</sup>**, Shilong Dong, Zixuan Chen
+<br /> SEA-GNN: Sequence Extension Augmented Graph Neural Network for Sequential Recommendation
+<br /> IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), April, 2024. 
+
 1. **Jin Zeng**, Yang Liu, Gene Cheung, Wei Hu
 <br /> Sparse Graph Learning with Spectrum Prior for Deep Graph Convolutional Networks
 <br /> IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), June, 2023.
@@ -78,7 +91,7 @@ author_profile: true
 [[supp]](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Zeng_Deep_Surface_Normal_CVPR_2019_supplemental.pdf)
 [[code]](https://huangyunmu.github.io/HFMNet_CVPR2019/)
 
-1. **Jin Zeng**, Jiahao Pang, Wenxiu Sun, Gene Cheung
+1. **Jin Zeng**<sup>*</sup>, Jiahao Pang<sup>*</sup>, Wenxiu Sun, Gene Cheung
 <br /> Deep graph Laplacian regularization for robust denoising of real images
 <br /> IEEE Conf. on Computer Vision and Pattern Recognition Workshops (CVPRW), Long Beach, USA, May, 2019.
 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Zeng_Deep_Graph_Laplacian_Regularization_for_Robust_Denoising_of_Real_Images_CVPRW_2019_paper.pdf)
