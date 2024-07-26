@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Courses
+## Courses
 ======
 * Graph Signal Processing, Graduate Course, Fall Semester 2022
 * Introduction to Artificial Intelligence, Undergraduate Course, Spring Semester 2023
@@ -21,7 +21,7 @@ Courses
 * Graph Signal Processing, Graduate Course, Fall Semester 2024
 * Discrete Mathematics, Undergraduate Course (Guohao Elite Class), Fall Semester 2024
 
-Invited Talks
+## Invited Talks
 ======
 * Graph-based Processing and Learning for 3D Imaging, Graph Signal Analysis & Learning Workshop, Osaka, Japan, July, 2024
 * 3D Image Restoration with Graph-based Processing and Learning Techniques, ChinaMM, Guiyang, China, July, 2022
