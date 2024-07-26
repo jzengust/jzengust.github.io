@@ -60,6 +60,6 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+Teaching and Talks
 ======
   [See all courses](https://jzengust.github.io/teaching/)

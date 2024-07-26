@@ -34,7 +34,12 @@ author_profile: true
 <br /> Graph Spectral Image Restoration
 <br /> Graph Spectral Image Processing, ISTE/Wiley, June, 2021.
 
-## Journal Publications
+## Selected Journal Publications
+
+1. **Jin Zeng**, Qingpeng Zhu, Tongxuan Tian, Wenxiu Sun, Lin Zhang, Shengjie Zhao
+<br /> Deep unrolled weighted graph laplacian regularization for depth completion
+<br /> International Journal of Computer Vision, July, 2024.
+[[paper]](https://link.springer.com/article/10.1007/s11263-024-02188-3)
 
 1. Zhikang Yuan, **Jin Zeng<sup>#</sup>**, Zixiang Wei, Lijun Jin, Shengjie Zhao, Xianhui Liu, Yingyao Zhang, Gangjie Zhou
 <br /> CLAHE-based low-light image enhancement for robust object detection in overhead power transmission system
@@ -65,7 +70,7 @@ author_profile: true
 
 ## Conference Publications
 
-1. Guibin Zhang, Kun Wang, Wei Huang, Yanwei Yue, Yang Wang, Roger Zimmermann, Aojun Zhou, Dawei Cheng, **Jin Zeng<sup>#</sup>**, Yuxuan Liang
+1. Guibin Zhang, Kun Wang, Wei Huang, Yanwei Yue, Yang Wang, Roger Zimmermann, Aojun Zhou, Dawei Cheng, **Jin Zeng<sup>#</sup>**, Yuxuan Liang<sup>#</sup>
 <br /> Graph Lottery Ticket Automated
 <br /> International Conf. on Learning Representations (ICLR), May, 2024.
 [[paper]](https://openreview.net/pdf?id=nmBjBZoySX)
