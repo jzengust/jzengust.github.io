@@ -34,16 +34,12 @@ author_profile: true
 <br /> Graph Spectral Image Restoration
 <br /> Graph Spectral Image Processing, ISTE/Wiley, June, 2021.
 
-## Selected Publications
-
-### 2025
+## Selected Journal Publications
 
 1. Jingwei Jia, Changyong He, Jianhui Wang, Gene Cheung, **Jin Zeng<sup>#</sup>**
 <br /> Deep Unrolled Graph Laplacian Regularization for Robust Time-of-Flight Depth Denoising
 <br /> IEEE Signal Processing Letters, Feb, 2025.
 [[paper]](https://ieeexplore.ieee.org/document/10878265)
-
-### before 2024
 
 1. **Jin Zeng**, Qingpeng Zhu, Tongxuan Tian, Wenxiu Sun, Lin Zhang, Shengjie Zhao
 <br /> Deep unrolled weighted graph laplacian regularization for depth completion
@@ -77,6 +73,7 @@ author_profile: true
 <br /> IEEE Trans. Image Processing, March, 2016.
 [[paper]](https://ieeexplore.ieee.org/document/7365454)
 
+## Conference Publications
 
 1. Guibin Zhang, Kun Wang, Wei Huang, Yanwei Yue, Yang Wang, Roger Zimmermann, Aojun Zhou, Dawei Cheng, **Jin Zeng<sup>#</sup>**, Yuxuan Liang<sup>#</sup>
 <br /> Graph Lottery Ticket Automated
