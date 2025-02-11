@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor at School of Software Engineering, [Tongji University](https://en.tongji.edu.cn/), Shanghai, China. 
+I am currently an Assistant Professor at School of Computer Science and Technology, [Tongji University](https://en.tongji.edu.cn/), Shanghai, China. 
 Before that, I was a senior researcher at [SenseTime Research](https://www.sensetime.com/en), working on machine vision solutions for mobile devices. 
 I obtained my Ph.D. degree in Electronic & Computer Engineering from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) in 2018, under the joint supervision of [Prof. Khaled B. Letaief](https://eekhaled.home.ece.ust.hk/) and [Prof. Gene Cheung](https://www.eecs.yorku.ca/~genec/index.html). 
 I received my B.Sc. degree from School of Electronic Science and Engineering, Nanjing University in 2012. 
