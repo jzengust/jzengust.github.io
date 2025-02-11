@@ -13,12 +13,15 @@ author_profile: true
 
 Member of Technical Committee
 ======
-* IEEE Multimedia Signal Processing Technical Committee (MMSP-TC) Member
+* APSIPA Image, Video, and Multimedia Technical Committee (IVM-TC) Member, 2025 - now
+* IEEE Multimedia Signal Processing Technical Committee (MMSP-TC) Member, 2024 - now
 
-Session chair
+Conference Organization
 ======
-* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
-* IEEE International Conference on Visual Communications and Image Processing (VCIP) 2022
+* Student Activities Chair, IEEE International Conference on Multimedia and Expo (ICME) 2025
+* Area Chair, IEEE International Conference on Multimedia and Expo (ICME) 2025
+* Session Chair, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
+* Session Chair, IEEE International Conference on Visual Communications and Image Processing (VCIP) 2022
 
 Reviewer for the following journals/conferences
 ======

@@ -36,6 +36,11 @@ author_profile: true
 
 ## Selected Journal Publications
 
+1. Jingwei Jia, Changyong He, Jianhui Wang, Gene Cheung, **Jin Zeng<sup>#</sup>**
+<br /> Deep Unrolled Graph Laplacian Regularization for Robust Time-of-Flight Depth Denoising
+<br /> IEEE Signal Processing Letters, Feb, 2025.
+[[paper]](https://ieeexplore.ieee.org/document/10878265)
+
 1. **Jin Zeng**, Qingpeng Zhu, Tongxuan Tian, Wenxiu Sun, Lin Zhang, Shengjie Zhao
 <br /> Deep unrolled weighted graph laplacian regularization for depth completion
 <br /> International Journal of Computer Vision, July, 2024.

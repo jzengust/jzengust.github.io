@@ -20,9 +20,11 @@ author_profile: true
 * Introduction to Artificial Intelligence, Undergraduate Course, Spring Semester 2024
 * Graph Signal Processing, Graduate Course, Fall Semester 2024
 * Discrete Mathematics, Undergraduate Course (Guohao Elite Class), Fall Semester 2024
+* Introduction to Artificial Intelligence, Undergraduate Course, Spring Semester 2025
 
 ## Invited Talks
 ======
+* Graph-based Processing and Learning for 3D Imaging, Hangzhou Innovation Institute, Beihang University, Hangzhou, China, Dec, 2024
 * Graph-based Processing and Learning for 3D Imaging, Graph Signal Analysis & Learning Workshop, Osaka, Japan, July, 2024
 * 3D Image Restoration with Graph-based Processing and Learning Techniques, ChinaMM, Guiyang, China, July, 2022
 * Low-level Vision with Graph-based Processing and Learning Techniques, Shanghai Jiao Tong University, Shanghai, China, January, 2021
