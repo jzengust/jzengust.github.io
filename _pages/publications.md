@@ -129,6 +129,11 @@ author_profile: true
 <br /> IEEE Trans. Signal Processing, October, 2017.
 [[paper]](https://ieeexplore.ieee.org/document/7997610)
 
+1. **Jin Zeng**, Gene Cheung, Yung-Hsuan Chao, Ian Blanes, Joan Serra-Sagrista, Antonio Ortega
+<br /> Hyperspectral image coding using graph wavelets
+<br /> IEEE Int. Conf. on Image Processing (ICIP), Beijing, China, September, 2017.
+[[paper]](https://ieeexplore.ieee.org/document/8296566)
+
 1. **Jin Zeng**, Lu Fang, Houqiang Li, Feng Wu
 <br /> Subpixel image quality assessment syncretizing local subpixel and global pixel features
 <br /> IEEE Trans. Image Processing, December, 2016.
@@ -138,11 +143,6 @@ author_profile: true
 <br /> Subpixel-based image scaling for grid-like subpixel arrangements: A generalized continuous-domain analysis model
 <br /> IEEE Trans. Image Processing, March, 2016.
 [[paper]](https://ieeexplore.ieee.org/document/7365454)
-
-1. **Jin Zeng**, Gene Cheung, Yung-Hsuan Chao, Ian Blanes, Joan Serra-Sagrista, Antonio Ortega
-<br /> Hyperspectral image coding using graph wavelets
-<br /> IEEE Int. Conf. on Image Processing (ICIP), Beijing, China, September, 2017.
-[[paper]](https://ieeexplore.ieee.org/document/8296566)
 
 1. **Jin Zeng**, Gene Cheung, Antonio Ortega
 <br /> Bipartite Subgraph Decomposition for Critically Sampled Wavelet Filterbanks on Arbitrary Graphs
