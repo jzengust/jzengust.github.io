@@ -36,7 +36,7 @@ author_profile: true
 
 ## Selected Publications
 
-# 2025
+### 2025
 1. Jingwei Jia, Changyong He, Jianhui Wang, Gene Cheung, **Jin Zeng<sup>#</sup>**
 <br /> Deep Unrolled Graph Laplacian Regularization for Robust Time-of-Flight Depth Denoising
 <br /> IEEE Signal Processing Letters, 2025.
@@ -52,7 +52,7 @@ author_profile: true
 <br /> SAVE-GSL: Scalable and Expressive Graph Structure Learning for Large Graphs
 <br /> IEEE International Conference on Multimedia and Expo (ICME), 2025.
 
-# 2024
+### 2024
 1. **Jin Zeng**, Qingpeng Zhu, Tongxuan Tian, Wenxiu Sun, Lin Zhang, Shengjie Zhao
 <br /> Deep unrolled weighted graph laplacian regularization for depth completion
 <br /> International Journal of Computer Vision, 2024.
@@ -73,7 +73,7 @@ author_profile: true
 <br /> Int. Conf. on Computer Supported Cooperative Work in Design (CSCWD), 2024
 
 
-## Before 2024
+### Before 2024
 
 1. Zhikang Yuan, **Jin Zeng<sup>#</sup>**, Zixiang Wei, Lijun Jin, Shengjie Zhao, Xianhui Liu, Yingyao Zhang, Gangjie Zhou
 <br /> CLAHE-based low-light image enhancement for robust object detection in overhead power transmission system
