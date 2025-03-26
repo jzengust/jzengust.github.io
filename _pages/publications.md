@@ -34,22 +34,57 @@ author_profile: true
 <br /> Graph Spectral Image Restoration
 <br /> Graph Spectral Image Processing, ISTE/Wiley, June, 2021.
 
-## Selected Journal Publications
+## Selected Publications
 
+# 2025
 1. Jingwei Jia, Changyong He, Jianhui Wang, Gene Cheung, **Jin Zeng<sup>#</sup>**
 <br /> Deep Unrolled Graph Laplacian Regularization for Robust Time-of-Flight Depth Denoising
-<br /> IEEE Signal Processing Letters, Feb, 2025.
+<br /> IEEE Signal Processing Letters, 2025.
 [[paper]](https://ieeexplore.ieee.org/document/10878265)
 
+1. Changyong He, **Jin Zeng<sup>#</sup>**, Jiawei Zhang, Jiajie Guo
+<br /> Towards Robust Time-of-Flight Depth Denoising with Confidence-Aware Diffusion Model
+<br /> IEEE International Conference on Multimedia and Expo (ICME), 2025.
+[[arkiv]](https://arxiv.org/abs/2503.19448)
+[[code]](https://github.com/BadbeardHe/DepthCAD)
+
+1. Manxin Xu, Shengjie Zhao<sup>#</sup>, **Jin Zeng<sup>#</sup>**, Weichao Chen, Shilong Dong
+<br /> SAVE-GSL: Scalable and Expressive Graph Structure Learning for Large Graphs
+<br /> IEEE International Conference on Multimedia and Expo (ICME), 2025.
+
+# 2024
 1. **Jin Zeng**, Qingpeng Zhu, Tongxuan Tian, Wenxiu Sun, Lin Zhang, Shengjie Zhao
 <br /> Deep unrolled weighted graph laplacian regularization for depth completion
-<br /> International Journal of Computer Vision, July, 2024.
+<br /> International Journal of Computer Vision, 2024.
 [[paper]](https://link.springer.com/article/10.1007/s11263-024-02188-3)
+
+1. Guibin Zhang, Kun Wang, Wei Huang, Yanwei Yue, Yang Wang, Roger Zimmermann, Aojun Zhou, Dawei Cheng, **Jin Zeng<sup>#</sup>**, Yuxuan Liang<sup>#</sup>
+<br /> Graph Lottery Ticket Automated
+<br /> International Conf. on Learning Representations (ICLR), 2024.
+[[paper]](https://openreview.net/pdf?id=nmBjBZoySX)
+[[code]](https://github.com/bingreeky/AdaGLT)
+
+1. Geyunqian Zu, Shengjie Zhao<sup>#</sup>, **Jin Zeng<sup>#</sup>**, Shilong Dong, Zixuan Chen
+<br /> SEA-GNN: Sequence Extension Augmented Graph Neural Network for Sequential Recommendation
+<br /> IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
+
+1. Zixuan Chen, Shengjie Zhao<sup>#</sup>, **Jin Zeng<sup>#</sup>**, Shilong Dong, Geyunqian Zu
+<br /> CASTNet: Convolution Augmented Graph Sampling Transformer Network for Traffic Flow Forecasting
+<br /> Int. Conf. on Computer Supported Cooperative Work in Design (CSCWD), 2024
+
+
+## Before 2024
 
 1. Zhikang Yuan, **Jin Zeng<sup>#</sup>**, Zixiang Wei, Lijun Jin, Shengjie Zhao, Xianhui Liu, Yingyao Zhang, Gangjie Zhou
 <br /> CLAHE-based low-light image enhancement for robust object detection in overhead power transmission system
 <br /> IEEE Trans. Power Delivery, April, 2023.
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10106486/)
+
+1. **Jin Zeng**, Yang Liu, Gene Cheung, Wei Hu
+<br /> Sparse Graph Learning with Spectrum Prior for Deep Graph Convolutional Networks
+<br /> IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), June, 2023.
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10095900)
+[[arkiv]](https://arxiv.org/pdf/2202.13526.pdf)
 
 1. **Jin Zeng**, Gene Cheung, Michael Ng, Jiahao Pang, Cheng Yang
 <br /> 3D point cloud denoising using graph Laplacian regularization of a low dimensional manifold model
@@ -57,6 +92,19 @@ author_profile: true
 [[paper]](https://ieeexplore.ieee.org/abstract/document/8945167)
 [[arkiv]](https://arxiv.org/pdf/1803.07252.pdf)
 [[code]](https://github.com/jzengust/ldmm_graph_laplacian_pointcloud_denoise)
+
+1. **Jin Zeng**, Yanfeng Tong, Yunmu Huang, Qiong Yan, Wenxiu Sun, Jing Chen, Yongtian Wang
+<br /> Deep surface normal estimation with hierarchical RGB-D fusion
+<br /> IEEE Conf.on Computer Vision and Pattern Recognition (CVPR), Long Beach, USA, May, 2019.
+[[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Deep_Surface_Normal_Estimation_With_Hierarchical_RGB-D_Fusion_CVPR_2019_paper.pdf)
+[[supp]](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Zeng_Deep_Surface_Normal_CVPR_2019_supplemental.pdf)
+[[code]](https://huangyunmu.github.io/HFMNet_CVPR2019/)
+
+1. **Jin Zeng**<sup>*</sup>, Jiahao Pang<sup>*</sup>, Wenxiu Sun, Gene Cheung
+<br /> Deep graph Laplacian regularization for robust denoising of real images
+<br /> IEEE Conf. on Computer Vision and Pattern Recognition Workshops (CVPRW), Long Beach, USA, May, 2019.
+[[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Zeng_Deep_Graph_Laplacian_Regularization_for_Robust_Denoising_of_Real_Images_CVPRW_2019_paper.pdf)
+[[supp]](http://openaccess.thecvf.com/content_CVPRW_2019/supplemental/Zeng_Deep_Graph_Laplacian_CVPRW_2019_supplemental.pdf)
 
 1. **Jin Zeng**, Gene Cheung, Antonio Ortega
 <br /> Bipartite approximation for graph wavelet signal decomposition
@@ -72,40 +120,6 @@ author_profile: true
 <br /> Subpixel-based image scaling for grid-like subpixel arrangements: A generalized continuous-domain analysis model
 <br /> IEEE Trans. Image Processing, March, 2016.
 [[paper]](https://ieeexplore.ieee.org/document/7365454)
-
-## Conference Publications
-
-1. Guibin Zhang, Kun Wang, Wei Huang, Yanwei Yue, Yang Wang, Roger Zimmermann, Aojun Zhou, Dawei Cheng, **Jin Zeng<sup>#</sup>**, Yuxuan Liang<sup>#</sup>
-<br /> Graph Lottery Ticket Automated
-<br /> International Conf. on Learning Representations (ICLR), May, 2024.
-[[paper]](https://openreview.net/pdf?id=nmBjBZoySX)
-
-1. Zixuan Chen, Shengjie Zhao<sup>#</sup>, **Jin Zeng<sup>#</sup>**, Shilong Dong, Geyunqian Zu
-<br /> CASTNet: Convolution Augmented Graph Sampling Transformer Network for Traffic Flow Forecasting
-<br /> Int. Conf. on Computer Supported Cooperative Work in Design (CSCWD), May, 2024
-
-1. Geyunqian Zu, Shengjie Zhao<sup>#</sup>, **Jin Zeng<sup>#</sup>**, Shilong Dong, Zixuan Chen
-<br /> SEA-GNN: Sequence Extension Augmented Graph Neural Network for Sequential Recommendation
-<br /> IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), April, 2024. 
-
-1. **Jin Zeng**, Yang Liu, Gene Cheung, Wei Hu
-<br /> Sparse Graph Learning with Spectrum Prior for Deep Graph Convolutional Networks
-<br /> IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), June, 2023.
-[[paper]](https://ieeexplore.ieee.org/abstract/document/10095900)
-[[arkiv]](https://arxiv.org/pdf/2202.13526.pdf)
-
-1. **Jin Zeng**, Yanfeng Tong, Yunmu Huang, Qiong Yan, Wenxiu Sun, Jing Chen, Yongtian Wang
-<br /> Deep surface normal estimation with hierarchical RGB-D fusion
-<br /> IEEE Conf.on Computer Vision and Pattern Recognition (CVPR), Long Beach, USA, May, 2019.
-[[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Deep_Surface_Normal_Estimation_With_Hierarchical_RGB-D_Fusion_CVPR_2019_paper.pdf)
-[[supp]](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Zeng_Deep_Surface_Normal_CVPR_2019_supplemental.pdf)
-[[code]](https://huangyunmu.github.io/HFMNet_CVPR2019/)
-
-1. **Jin Zeng**<sup>*</sup>, Jiahao Pang<sup>*</sup>, Wenxiu Sun, Gene Cheung
-<br /> Deep graph Laplacian regularization for robust denoising of real images
-<br /> IEEE Conf. on Computer Vision and Pattern Recognition Workshops (CVPRW), Long Beach, USA, May, 2019.
-[[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Zeng_Deep_Graph_Laplacian_Regularization_for_Robust_Denoising_of_Real_Images_CVPRW_2019_paper.pdf)
-[[supp]](http://openaccess.thecvf.com/content_CVPRW_2019/supplemental/Zeng_Deep_Graph_Laplacian_CVPRW_2019_supplemental.pdf)
 
 1. **Jin Zeng**, Gene Cheung, Yung-Hsuan Chao, Ian Blanes, Joan Serra-Sagrista, Antonio Ortega
 <br /> Hyperspectral image coding using graph wavelets
