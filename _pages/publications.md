@@ -86,6 +86,17 @@ author_profile: true
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10095900)
 [[arkiv]](https://arxiv.org/pdf/2202.13526.pdf)
 
+1. Di Qiu, **Jin Zeng**, Zhanghan Ke, Wenxiu Sun, Chengxi Yang
+<br /> Towards geometry guided neural relighting with flash photography
+<br /> International Conf. on 3D Vision (3DV), 2020. 
+[[paper]](https://ieeexplore.ieee.org/abstract/document/9320420)
+[[arkiv]](https://arxiv.org/pdf/2008.05157)
+
+1. Quewei Li, Jie Guo, Yang Fei, Qinyu Tang, Wenxiu Sun, **Jin Zeng**, Yanwen Guo
+<br /> Deep surface normal estimation on the 2-sphere with condence guided semantic attention
+<br /> European Conf. on Computer Vision (ECCV), 2020.
+[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_43)
+
 1. **Jin Zeng**, Gene Cheung, Michael Ng, Jiahao Pang, Cheng Yang
 <br /> 3D point cloud denoising using graph Laplacian regularization of a low dimensional manifold model
 <br /> IEEE Trans. Image Processing, December, 2019.
@@ -105,6 +116,13 @@ author_profile: true
 <br /> IEEE Conf. on Computer Vision and Pattern Recognition Workshops (CVPRW), Long Beach, USA, May, 2019.
 [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Zeng_Deep_Graph_Laplacian_Regularization_for_Robust_Denoising_of_Real_Images_CVPRW_2019_paper.pdf)
 [[supp]](http://openaccess.thecvf.com/content_CVPRW_2019/supplemental/Zeng_Deep_Graph_Laplacian_CVPRW_2019_supplemental.pdf)
+
+
+1. Jiahao Pang, Wenxiu Sun, Chengxi Yang, Jimmy S. Ren, Ruichao Xiao, **Jin Zeng**, Liang Lin
+<br /> Zoom and learn: Generalizing deep stereo matching to novel domains
+<br /> IEEE Conf. Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018.
+[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pang_Zoom_and_Learn_CVPR_2018_paper.pdf)
+[[code]](https://github.com/Artifineuro/zole)
 
 1. **Jin Zeng**, Gene Cheung, Antonio Ortega
 <br /> Bipartite approximation for graph wavelet signal decomposition
@@ -131,37 +149,15 @@ author_profile: true
 <br /> IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Shanghai, China, March, 2016. 
 [[paper]](https://ieeexplore.ieee.org/document/7472871)
 
-1. **Jin Zeng**, Oscar C. Au, Yuanfang Guo, Jiahao Pang, Ketan Tang, Yonggen Ling
-<br /> Analysis of Sampling Pattern and Luma-chroma Filter Design for Subpixel-based Image Downsampling
-<br /> IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Florence, Italy, May, 2014.
-[[paper]](https://ieeexplore.ieee.org/document/6854722)
-
-1. **Jin Zeng**, Oscar C. Au, Wei Dai, Yue Kong, Luheng Jia, Wenjing Zhu
-<br /> A Tutorial on Image/Video Coding Standards
-<br /> APSIPA Annual Summit and Conference (ASC), Kaohsiung, Taiwan, November, 2013.
-[[paper]](https://ieeexplore.ieee.org/document/6694346)
-
-1. Di Qiu, **Jin Zeng**, Zhanghan Ke, Wenxiu Sun, Chengxi Yang
-<br /> Towards geometry guided neural relighting with flash photography
-<br /> International Conf. on 3D Vision (3DV), 2020. 
-[[paper]](https://ieeexplore.ieee.org/abstract/document/9320420)
-[[arkiv]](https://arxiv.org/pdf/2008.05157)
-
-1. Quewei Li, Jie Guo, Yang Fei, Qinyu Tang, Wenxiu Sun, **Jin Zeng**, Yanwen Guo
-<br /> Deep surface normal estimation on the 2-sphere with condence guided semantic attention
-<br /> European Conf. on Computer Vision (ECCV), 2020.
-[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_43)
-
-1. Jiahao Pang, Wenxiu Sun, Chengxi Yang, Jimmy S. Ren, Ruichao Xiao, **Jin Zeng**, Liang Lin
-<br /> Zoom and learn: Generalizing deep stereo matching to novel domains
-<br /> IEEE Conf. Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018.
-[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pang_Zoom_and_Learn_CVPR_2018_paper.pdf)
-[[code]](https://github.com/Artifineuro/zole)
-
 1. Yonggen Ling, Oscar C. Au, Jiahao Pang, **Jin Zeng**, Yuan Yuan, Amin Zheng
 <br /> Image Colorization via Color Propagation and Rank Minimization
 <br /> IEEE Int. Conf. on Image Processing (ICIP), Quebec City, Canada, September, 2015. 
 [[paper]](https://ieeexplore.ieee.org/document/7351603)
+
+1. **Jin Zeng**, Oscar C. Au, Yuanfang Guo, Jiahao Pang, Ketan Tang, Yonggen Ling
+<br /> Analysis of Sampling Pattern and Luma-chroma Filter Design for Subpixel-based Image Downsampling
+<br /> IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Florence, Italy, May, 2014.
+[[paper]](https://ieeexplore.ieee.org/document/6854722)
 
 1. Jiahao Pang, Oscar C. Au, Yukihiko Yamashita, Yonggen Ling, Yuanfang Guo, **Jin Zeng**
 <br /> Self-Similarity-Based Image Colorization
@@ -177,6 +173,12 @@ author_profile: true
 <br /> Palette-based compound image compression in HEVC by exploiting non-local spatial correlation
 <br /> IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), Florence, Italy, May, 2014. 
 [[paper]](https://ieeexplore.ieee.org/document/6855027)
+
+
+1. **Jin Zeng**, Oscar C. Au, Wei Dai, Yue Kong, Luheng Jia, Wenjing Zhu
+<br /> A Tutorial on Image/Video Coding Standards
+<br /> APSIPA Annual Summit and Conference (ASC), Kaohsiung, Taiwan, November, 2013.
+[[paper]](https://ieeexplore.ieee.org/document/6694346)
 
 1. Yonggen Ling, Oscar C. Au, Ketan Tang, Jiahao Pang, **Jin Zeng**, Lu Fang
 <br /> An Analytical Study of Subpixel-based Image Down-sampling Patterns in Frequency Domain
