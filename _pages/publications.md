@@ -67,14 +67,16 @@ author_profile: true
 1. Geyunqian Zu, Shengjie Zhao<sup>#</sup>, **Jin Zeng<sup>#</sup>**, Shilong Dong, Zixuan Chen
 <br /> SEA-GNN: Sequence Extension Augmented Graph Neural Network for Sequential Recommendation
 <br /> IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
+[[paper]](https://ieeexplore.ieee.org/document/10446590)
+[[code]](https://github.com/ZuGeYunQian/SEA-GNN)
 
 1. Zixuan Chen, Shengjie Zhao<sup>#</sup>, **Jin Zeng<sup>#</sup>**, Shilong Dong, Geyunqian Zu
 <br /> CASTNet: Convolution Augmented Graph Sampling Transformer Network for Traffic Flow Forecasting
 <br /> Int. Conf. on Computer Supported Cooperative Work in Design (CSCWD), 2024
+[[paper]](https://ieeexplore.ieee.org/document/10580861)
 
 
 ### Before 2024
-
 1. Zhikang Yuan, **Jin Zeng<sup>#</sup>**, Zixiang Wei, Lijun Jin, Shengjie Zhao, Xianhui Liu, Yingyao Zhang, Gangjie Zhou
 <br /> CLAHE-based low-light image enhancement for robust object detection in overhead power transmission system
 <br /> IEEE Trans. Power Delivery, April, 2023.
