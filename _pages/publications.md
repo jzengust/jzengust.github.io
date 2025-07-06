@@ -37,6 +37,12 @@ author_profile: true
 ## Selected Publications
 
 ### 2025
+1. Weida Wang, Changyong He, **Jin Zeng<sup>#</sup>**, Di Qiu
+<br /> Consistent Time-of-Flight Depth Denoising via Graph-Informed Geometric Attention
+<br /> International Conference on Computer Vision (ICCV), 2025.
+[[arkiv]](https://arxiv.org/abs/2506.23542)
+[[project]](https://github.com/davidweidawang/GIGA-ToF)
+
 1. Jingwei Jia, Changyong He, Jianhui Wang, Gene Cheung, **Jin Zeng<sup>#</sup>**
 <br /> Deep Unrolled Graph Laplacian Regularization for Robust Time-of-Flight Depth Denoising
 <br /> IEEE Signal Processing Letters, 2025.

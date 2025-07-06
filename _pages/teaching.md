@@ -21,6 +21,8 @@ author_profile: true
 * Graph Signal Processing, Graduate Course, Fall Semester 2024
 * Discrete Mathematics, Undergraduate Course (Guohao Elite Class), Fall Semester 2024
 * Introduction to Artificial Intelligence, Undergraduate Course, Spring Semester 2025
+* Graph Signal Processing, Graduate Course, Fall Semester 2025
+* Discrete Mathematics, Undergraduate Course, Fall Semester 2025
 
 ## Invited Talks
 ======
