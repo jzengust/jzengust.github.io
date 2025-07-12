@@ -25,7 +25,7 @@ Conference Organization
 
 Editorial Duties
 ======
-+ Associate Editor for [[IEEE Signal Processing Letters]](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters), 2025 - now
++ Associate Editor for [IEEE Signal Processing Letters](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters), 2025 - now
 + Reviewer for the following journals/conferences:
   - IEEE Transactions on Image Processing (TIP)
   - IEEE Transactions on Signal Processing (TSP)
