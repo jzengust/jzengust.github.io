@@ -49,6 +49,11 @@ author_profile: true
 [[paper]](https://ieeexplore.ieee.org/document/10878265)
 [[code]](https://github.com/BadbeardHe/GLRUN)
 
+1. Jiajie Guo, Qingpeng Zhu, **Jin Zeng<sup>#</sup>**, Xiaolong Wu, Changyong He, Weida Wang
+<br /> SpatialGeo: Boosting Spatial Reasoning in Multimodal LLMs via Geometry-Semantics Fusion
+<br /> IEEE International Workshop on Multimedia Signal Processing (MMSP), 2025.
+[[code]](https://github.com/Ricky-PLUS/SpatialGeo)
+
 1. Changyong He, **Jin Zeng<sup>#</sup>**, Jiawei Zhang, Jiajie Guo
 <br /> Towards Robust Time-of-Flight Depth Denoising with Confidence-Aware Diffusion Model
 <br /> IEEE International Conference on Multimedia and Expo (ICME), 2025.
