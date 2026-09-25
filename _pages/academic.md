@@ -13,13 +13,17 @@ author_profile: true
 
 Member of Technical Committee
 ======
+* K-12 Outreach Subcommittee, IEEE SPS Education Board, Member, 2026 - now
 * APSIPA Image, Video, and Multimedia Technical Committee (IVM-TC) Member, 2025 - now
 * IEEE Multimedia Signal Processing Technical Committee (MMSP-TC) Member, 2024 - now
 
 Conference Organization
 ======
 * Student Activities Chair, IEEE International Conference on Multimedia and Expo (ICME) 2025
-* Area Chair, IEEE International Conference on Multimedia and Expo (ICME) 2025
+* Co-Organizer of IEEE Signal Processing Cup (SP Cup) 2026
+* Area Chair, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026
+* Session Chair and Area Chair, IEEE International Conference on Multimedia and Expo (ICME) 2026
+* Session Chair and Area Chair, IEEE International Conference on Multimedia and Expo (ICME) 2025
 * Session Chair, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
 * Session Chair, IEEE International Conference on Visual Communications and Image Processing (VCIP) 2022
 

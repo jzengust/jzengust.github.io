@@ -44,6 +44,7 @@ Relevant experience
 
 Awards
 ======
+* IEEE MMSP-TC Multimedia Rising Star Runner-Up, 2026
 * Shanghai Rising-Star Program Award, 2022
 * Shenzhen Peacock Program Award, 2020
 * Outstanding Individual Award (top 3%, 150/5000), SenseTime Group Ltd, 2019

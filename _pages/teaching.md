@@ -26,7 +26,8 @@ author_profile: true
 
 ## Invited Talks
 ======
-* Graph-based Processing and Learning for 3D Imaging, Hangzhou Innovation Institute, Beihang University, Hangzhou, China, Dec, 2024
+* Towards Interpretable and Efficient 3D Imaging via Graph-Based Algorithm Unrolling, MMSP workshop, Istanbul, Turkey, Sep., 2026
+* Graph-based Processing and Learning for 3D Imaging, Hangzhou Innovation Institute, Beihang University, Hangzhou, China, Dec., 2024
 * Graph-based Processing and Learning for 3D Imaging, Graph Signal Analysis & Learning Workshop, Osaka, Japan, July, 2024
 * 3D Image Restoration with Graph-based Processing and Learning Techniques, ChinaMM, Guiyang, China, July, 2022
 * Low-level Vision with Graph-based Processing and Learning Techniques, Shanghai Jiao Tong University, Shanghai, China, January, 2021
